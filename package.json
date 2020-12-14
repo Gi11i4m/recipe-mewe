@@ -1,0 +1,15 @@
+{
+  "id": "mewe",
+  "name": "MeWe",
+  "version": "0.0.1",
+  "description": "MeWe",
+  "main": "index.js",
+  "author": "Gilliam Flebus <gilliam@fleb.us>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mewe.com/chat",
+    "hasNotificationSound": true,
+    "hasDirectMessages": false,
+    "hasIndirectMessages": true
+  }
+}
