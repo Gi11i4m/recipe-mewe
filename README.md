@@ -1,6 +1,6 @@
 # MeWe for Franz
 
-This is the unofficial Franz recipe for MeWe
+This is a Franz recipe for MeWe
 
 ### How to create your own Franz recipes:
 
